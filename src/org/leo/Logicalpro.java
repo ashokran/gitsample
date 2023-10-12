@@ -24,6 +24,11 @@ public class Logicalpro {
 	}
       System.out.println("Number of Digits;"+count);
       System.out.println("Sum of Numbers:"+sum);
+	  System.out.println("Work Done BY A");
+	  System.out.println("status Feature ");
+	  System.out.println("code working well");
+	
 	}
+	
     
 }
